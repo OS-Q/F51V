@@ -25,6 +25,7 @@ COPYING*
 /src/omv/boards/P*
 !/src/omv/boards/NANO33
 **/nrf*/
+!/src/omv/ports/nrf
 **/winc*/
 **/stm32*/
 **/mlx*/
